@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+
+.box{
+    background: rgb(248, 248, 248);
+    width: 600px;
+    height: 130vh;
+}
+
+.t{
+    padding-top: 20px;
+}
+
+
+p{
+    padding: 20px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+
+.quest1{
+    padding-top: 30px;
+}
+
+
+.quest2{
+    padding-top: 30px;
+}
+
+
+.quest3{
+    padding-top: 30px;
+}
+
+.quest4{
+    padding-top: 30px;
+}
